@@ -1,13 +1,13 @@
 [gd_scene load_steps=11 format=2]
 
-[ext_resource path="res://Sprite Assets/Tile sets/terrainTiles_default.png" type="Texture" id=1]
-[ext_resource path="res://Sprite Assets/props/treeBrown_large.png" type="Texture" id=2]
-[ext_resource path="res://Sprite Assets/props/treeGreen_large.png" type="Texture" id=3]
-[ext_resource path="res://Sprite Assets/props/crateMetal.png" type="Texture" id=4]
-[ext_resource path="res://Sprite Assets/props/crateWood.png" type="Texture" id=5]
-[ext_resource path="res://Sprite Assets/Towers/gunT1.tscn" type="PackedScene" id=6]
-[ext_resource path="res://Sprite Assets/Towers/gunT2.tscn" type="PackedScene" id=7]
-[ext_resource path="res://Sprite Assets/Towers/MissileT1.tscn" type="PackedScene" id=8]
+[ext_resource path="res://SpriteAssets/Tile sets/terrainTiles_default.png" type="Texture" id=1]
+[ext_resource path="res://SpriteAssets/props/treeBrown_large.png" type="Texture" id=2]
+[ext_resource path="res://SpriteAssets/props/treeGreen_large.png" type="Texture" id=3]
+[ext_resource path="res://SpriteAssets/props/crateMetal.png" type="Texture" id=4]
+[ext_resource path="res://SpriteAssets/props/crateWood.png" type="Texture" id=5]
+[ext_resource path="res://SpriteAssets/Towers/gunT1.tscn" type="PackedScene" id=6]
+[ext_resource path="res://SpriteAssets/Towers/gunT2.tscn" type="PackedScene" id=7]
+[ext_resource path="res://SpriteAssets/Towers/MissileT1.tscn" type="PackedScene" id=8]
 
 [sub_resource type="TileSet" id=1]
 0/name = "terrainTiles_default.png 0"
